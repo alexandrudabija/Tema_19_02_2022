@@ -1,0 +1,14 @@
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\bin\Debug\netcoreapp3.1\tema_19_02_2022.exe
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\bin\Debug\netcoreapp3.1\tema_19_02_2022.deps.json
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\bin\Debug\netcoreapp3.1\tema_19_02_2022.runtimeconfig.json
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\bin\Debug\netcoreapp3.1\tema_19_02_2022.runtimeconfig.dev.json
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\bin\Debug\netcoreapp3.1\tema_19_02_2022.dll
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\bin\Debug\netcoreapp3.1\tema_19_02_2022.pdb
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\obj\Debug\netcoreapp3.1\tema_19_02_2022.csproj.AssemblyReference.cache
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\obj\Debug\netcoreapp3.1\tema_19_02_2022.GeneratedMSBuildEditorConfig.editorconfig
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\obj\Debug\netcoreapp3.1\tema_19_02_2022.AssemblyInfoInputs.cache
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\obj\Debug\netcoreapp3.1\tema_19_02_2022.AssemblyInfo.cs
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\obj\Debug\netcoreapp3.1\tema_19_02_2022.csproj.CoreCompileInputs.cache
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\obj\Debug\netcoreapp3.1\tema_19_02_2022.dll
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\obj\Debug\netcoreapp3.1\tema_19_02_2022.pdb
+A:\Step_Sarcini_Teme\c#\github\.git\tema_19_02_2022\tema_19_02_2022\obj\Debug\netcoreapp3.1\tema_19_02_2022.genruntimeconfig.cache
